@@ -1,8 +1,11 @@
 {
-  "name": "app1",
+  "name": "@tomcorp/app1",
   "version": "2.1.0",
   "description": "",
   "main": "index.js",
+  "devDependencies": {
+    "@tomcorp/shared": "*"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

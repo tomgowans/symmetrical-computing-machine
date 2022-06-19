@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "@tomcorp/shared",
   "version": "2.1.0",
   "description": "Readme for the shared package",
   "main": "index.js",
