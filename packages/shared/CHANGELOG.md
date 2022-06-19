@@ -1,5 +1,11 @@
 # shared
 
+## 2.0.0
+
+### Major Changes
+
+- 3a523fc: readme change
+
 ## 1.1.0
 
 ### Minor Changes
