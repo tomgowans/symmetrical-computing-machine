@@ -1,5 +1,11 @@
 # shared
 
+## 2.1.0
+
+### Minor Changes
+
+- 9836920: removed private from package.jsons CS
+
 ## 2.0.0
 
 ### Major Changes
