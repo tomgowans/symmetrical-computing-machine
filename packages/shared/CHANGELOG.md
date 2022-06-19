@@ -1,5 +1,11 @@
 # shared
 
+## 2.2.1
+
+### Patch Changes
+
+- 0d94f63: change to shared readme
+
 ## 2.2.0
 
 ### Minor Changes
