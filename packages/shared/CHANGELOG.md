@@ -1,5 +1,15 @@
 # shared
 
+## 2.2.0
+
+### Minor Changes
+
+- 018429c: renamed packages
+
+### Patch Changes
+
+- 4f6a814: readme change CS
+
 ## 2.1.0
 
 ### Minor Changes
