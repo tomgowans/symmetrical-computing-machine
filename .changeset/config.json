@@ -3,7 +3,7 @@
   "changelog": "@changesets/cli/changelog",
   "commit": false,
   "fixed": [],
-  "linked": [["@tomcorp/shared", "@tomcorp/app1"]],
+  "linked": [["@tomcorp/app1", "@tomcorp/shared", "@tomcorp/shared1"]],
   "access": "restricted",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
