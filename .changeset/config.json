@@ -1,11 +1,8 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@1.7.0/schema.json",
-  "changelog": "@changesets/cli/changelog",
-  "commit": false,
-  "fixed": [],
-  "linked": [["@tomcorp/app1", "@tomcorp/shared", "@tomcorp/shared1"]],
   "access": "restricted",
   "baseBranch": "main",
-  "updateInternalDependencies": "patch",
-  "ignore": []
+  "changelog": "@changesets/cli/changelog",
+  "linked": [["@tomcorp/*"]],
+  "updateInternalDependencies": "patch"
 }

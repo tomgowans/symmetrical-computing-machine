@@ -1,11 +1,14 @@
 {
-  "name": "@tomcorp/shared1",
+  "name": "@tomcorp/app2",
   "version": "3.1.0",
-  "description": "Readme for the shared package",
+  "description": "",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tomcorp/shared": "3.0.1",
+    "@tomcorp/shared1": "3.1.0"
   },
   "author": "",
   "license": "ISC"
