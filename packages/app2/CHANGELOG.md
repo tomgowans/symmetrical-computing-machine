@@ -1,5 +1,12 @@
 # @tomcorp/app2
 
+## 3.2.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @tomcorp/shared@3.2.0
+
 ## 3.1.0
 
 ### Minor Changes

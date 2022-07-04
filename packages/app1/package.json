@@ -1,13 +1,13 @@
 {
   "name": "@tomcorp/app1",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@tomcorp/shared": "3.0.1",
+    "@tomcorp/shared": "3.2.0",
     "@tomcorp/shared1": "3.1.0"
   },
   "author": "",

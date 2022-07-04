@@ -1,5 +1,11 @@
 # shared
 
+## 3.2.0
+
+### Minor Changes
+
+- Minor change to shared package
+
 ## 3.0.1
 
 ### Patch Changes
