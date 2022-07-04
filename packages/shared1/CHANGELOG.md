@@ -1,5 +1,11 @@
 # @tomcorp/shared1
 
+## 3.1.1
+
+### Patch Changes
+
+- Patch change to shared1
+
 ## 3.1.0
 
 ### Patch Changes
