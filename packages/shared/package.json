@@ -1,6 +1,6 @@
 {
   "name": "@tomcorp/shared",
-  "version": "2.2.1",
+  "version": "3.0.1",
   "description": "Readme for the shared package",
   "main": "index.js",
   "private": true,

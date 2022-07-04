@@ -1,5 +1,11 @@
 # shared
 
+## 3.0.1
+
+### Patch Changes
+
+- 8fd4cfa: Made shared packages private
+
 ## 2.2.1
 
 ### Patch Changes
