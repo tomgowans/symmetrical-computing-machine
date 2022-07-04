@@ -1,5 +1,12 @@
 # app1
 
+## 3.0.0
+
+### Major Changes
+
+- 3302955: Added shared2 package
+- 2256079: major app1 change
+
 ## 2.2.0
 
 ### Minor Changes
