@@ -3,6 +3,5 @@
   "access": "restricted",
   "baseBranch": "main",
   "changelog": "@changesets/cli/changelog",
-  "linked": [["@tomcorp/*"]],
   "updateInternalDependencies": "patch"
 }
