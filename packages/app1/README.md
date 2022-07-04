@@ -1,1 +1,1 @@
-Major change to readme
+Minor change to readme
